@@ -2,9 +2,10 @@
 - 👀 I’m interested in Cybersecurity/Ethical Hacking/Game dev/Networking/Women
 - 🌱 I’m currently learning c++ and computing
 - 💞️ I’m looking to collaborate on my shitty projects
-- 📫 reach me if (isWomen(){
+- 📫 reach me below
+- if (isWomen()){
 -                  (age > 18 && age < 40){
--                  *insert statement here
+-                  *insert my conctact details here
 -                  }
 - } 
 

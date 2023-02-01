@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning c++ and computing
 - 💞️ I’m looking to collaborate on my shitty projects
 - 📫 reach me below
-- if (isWomen()){
+- if (isWomen()) 
+- {
 -                  (age > 18 && age < 40){
 -                  *insert my conctact details here
 -                  }
